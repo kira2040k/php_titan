@@ -5,7 +5,7 @@
 ### Description:
 
 php titan it's tool to scan php files and find **vulnerabilities** 🔎.
-<br><br><img src="https://img.shields.io/badge/Built%20with-C%20sharp-Purple"> <img src="https://img.shields.io/badge/twitter-kira_321k-blue.svg"> <img src="https://img.shields.io/badge/snapchat-zyse-yellow.svg">
+<br><br><img src="https://img.shields.io/badge/Built%20with-C%20sharp-Purple"> <img src="https://img.shields.io/badge/twitter-kira__321k-blue.svg"> <img src="https://img.shields.io/badge/snapchat-zyse-yellow.svg">
 
 # ✨ Features
 - Ai 🤖.
