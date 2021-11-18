@@ -29,7 +29,7 @@ php titan it's tool to scan php files and find **vulnerabilitys** 🔎.
 | <p align="center">windows</p>            | <p align="center">linux </p>                 | <p align="center">OSX</p>                       |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | 
 | <p align="center"><img src="https://img.icons8.com/color/96/000000/windows-10.png" /></p> | <p align="center"><img src="https://img.icons8.com/color/144/000000/linux--v1.png" /></p> | <p align="center"><img src="https://img.icons8.com/color/144/000000/mac-logo.png" /></p> | 
-| <a href="">windows 64 bit</a>              | &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="">linux 64 bit</a>              | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                <a href="">OSX 64 bit</a>                                                                                               |
+| <a href="https://github.com/kira2040k/php_titan/releases/tag/windows">windows 64 bit</a>              | &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/kira2040k/php_titan/releases/tag/linux64">linux 64 bit</a>              | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                <a href="https://github.com/kira2040k/php_titan/releases/tag/osx64">OSX 64 bit</a>                                                                                               |
 
 <hr>
 
