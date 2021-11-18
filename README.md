@@ -4,13 +4,13 @@
 
 ### Description:
 
-php titan it's tool to scan php files and find **vulnerabilitys** 🔎.
+php titan it's tool to scan php files and find **vulnerabilities** 🔎.
 <br><br><img src="https://img.shields.io/badge/Built%20with-C%20sharp-Purple"> <img src="https://img.shields.io/badge/twitter-kira_321k-blue.svg"> <img src="https://img.shields.io/badge/snapchat-zyse-yellow.svg">
 
 # ✨ Features
 - Ai 🤖.
 - Fast scan 🚀.
-- Scan a lot of vulnerabilitys 🐞 .
+- Scan a lot of vulnerabilities 🐞 .
 
 
 
