@@ -19,6 +19,7 @@ php titan it's tool to scan php files and find **vulnerabilities** 🔎.
 
 <img src="https://raw.githubusercontent.com/kira2040k/codes/main/images/php_titan_start.gif" width="1000" height="600">
 
+<img src="https://raw.githubusercontent.com/kira2040k/php_titan/main/images/report.png">
 
 
 <br>
